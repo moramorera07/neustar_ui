@@ -1,0 +1,33 @@
+.main_container{
+    display: inline-flex !important;
+    justify-content: center;
+}
+.form_container{
+    width: 50%;
+    margin-top: 15%;
+    padding: 3em;
+    background-color: #c2f0cc;
+}
+
+.form_field_custom{
+    margin-bottom: 2em !important;
+}
+
+.label_form{
+    text-align: left;
+    font-size: 16px !important;
+    margin-bottom: 0.5em !important;
+}
+
+.login_button{
+    width: 12em;
+    height: 3em;
+    font-size: 16px !important;
+    margin-top: 2em !important;
+    background: #01821d !important;
+    color: white !important;
+}
+
+.login_button:hover{
+    background: #005c14 !important;
+}

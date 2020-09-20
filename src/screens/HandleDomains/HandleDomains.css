@@ -1,0 +1,71 @@
+.label_domain_add{
+    margin-top: 5em !important;
+}
+
+.add_domain_input{
+    width: 40%;
+    margin-right: 2em;
+}
+
+.added_domain_input{
+    width: 40%;
+    margin-right: 2em;
+    margin-bottom: 1em;
+    opacity: 1 !important;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.error_message_add{
+    color: crimson;
+    margin-top: 1em;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.domains_form_container{
+    height: 100%;
+}
+
+.add_domains_button{
+    width: 12em;
+    height: 3em;
+    font-size: 16px !important;
+    margin-top: 1em !important;
+    background: #01821d !important;
+    color: white !important;
+}
+
+.add_domains_button:hover{
+    background: #005c14 !important;
+}
+
+.section_line{
+    width: 50%;
+    margin-top: 2em;
+}
+
+.header_container{
+    width: 85%;
+    text-align: right;
+    margin-top: 2em;
+}
+
+.logout_button{
+    background-color: #960000 !important;
+    color: white !important;
+}
+
+.logout_button:hover{
+    background-color: #610000 !important;
+}
+
+.added_domain_input.failed{
+    border: 2px solid crimson !important;
+}
+
+.list_domains_result.failed{
+    margin-bottom: 3em;
+}
